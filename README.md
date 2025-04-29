@@ -1,4 +1,4 @@
-# Thuli Studios - Ring, Earring, and Dress Detection Pipeline
+# Ring, Earring, and Dress Detection Pipeline
 
 ## Problem Statement
 Build a real-time fashion accessory tracking pipeline focusing on rings on fingers, earrings on ears, and dresses on body using computer vision and deep learning models.
