@@ -1,0 +1,5 @@
+train: C:/Users/ambic/ring-tracker/datasets/multi-fashion-dataset/train/images
+val: C:/Users/ambic/ring-tracker/datasets/multi-fashion-dataset/valid/images
+
+nc: 3
+names: ['Ring', 'earring', 'dress']

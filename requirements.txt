@@ -1,0 +1,10 @@
+numpy
+opencv-python
+matplotlib
+pillow
+mediapipe
+ultralytics
+tqdm
+imutils
+torch
+torchvision

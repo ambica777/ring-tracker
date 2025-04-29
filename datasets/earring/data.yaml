@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['earrings']
+
+roboflow:
+  workspace: research-5zxi2
+  project: earrings-dp8zr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/research-5zxi2/earrings-dp8zr/dataset/1
