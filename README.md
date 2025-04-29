@@ -9,7 +9,7 @@ We developed a complete YOLOv8-based object detection pipeline trained on a cust
 ## Project Structure
 - datasets/multi-fashion-dataset/  → Final merged dataset
 - runs/detect/train15/              → YOLOv8 trained model
-- scripts/
+- scripts:
   - main.py                         → Final inference script
   - merge.py                        → Dataset merger script
   - rewrite.py                      → Label remapping script
@@ -21,4 +21,4 @@ We developed a complete YOLOv8-based object detection pipeline trained on a cust
 ```bash
 conda activate ring-tracker
 pip install ultralytics opencv-python tqdm
-python scripts/main.py
+python main.py
